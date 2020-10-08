@@ -1,0 +1,216 @@
+#toplevel_page_woo_dostavista > a.toplevel_page_woo_dostavista > div.wp-menu-image > img {
+    height: 20px;
+}
+
+.woo-dostavista-heading {
+    margin: 30px 0 40px;
+}
+
+#woo-dostavista-settings .woo-dostavista-form {
+    max-width: 900px;
+}
+
+.woo-dostavista-form {
+    padding: 20px 20px;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+}
+
+.woo-dostavista-form table.form-table {
+    margin: 0 0 20px;
+}
+
+.woo-dostavista-form table.form-table td:first-child {
+    width: 300px;
+    text-align: right;
+}
+
+.woo-dostavista-form table.form-table td {
+    padding: 5px 20px 5px 0;
+    vertical-align: top;
+}
+
+.woo-dostavista-form table.form-table input[type="text"],
+.woo-dostavista-form table.form-table input[type="password"],
+.woo-dostavista-form table.form-table select,
+.woo-dostavista-form table.form-table textarea {
+    width: 500px;
+}
+
+.woo-dostavista-form h2.form-section {
+    text-transform: uppercase;
+    border-bottom: 2px solid #d7eaff;
+    color: #000;
+    font-weight: bold;
+    margin: 10px 0;
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+
+.woo-dostavista-form .input-note {
+    font-size: 12px;
+    line-height: 1.2;
+    margin-top: 2px;
+    color: #909090;
+}
+
+.woo-dostavista-warning-block {
+    color: #856404;
+    background-color: #fff3cd;
+    padding: 15px 10px;
+    border: 1px solid #f9d878;
+    margin-bottom: 20px;
+}
+
+.woo-dostavista-success-block {
+    color: #28a745;
+    background-color: #f3f8f8;
+    padding: 15px 10px;
+    border: 1px solid #c3e6cb;
+    margin-bottom: 20px;
+}
+
+#woo-dostavista-order-form .summary-block {
+    width: 300px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 0 20px;
+    position: absolute;
+}
+
+#woo-dostavista-order-form .summary-block .form-table td {
+    padding: 3px 10px;
+}
+
+#woo-dostavista-order-form .summary-block hr.total {
+    margin-right: -10px;
+}
+
+#woo-dostavista-order-form .summary-block .errors {
+    text-align: center;
+    background: #dc3545;
+    color: #fff;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+#woo-dostavista-order-form .content-container {
+    padding-left: 350px;
+    padding-right: 20px
+}
+
+#woo-dostavista-order-form .invalid-feedback {
+    color: #fff;
+    background: #dc3545;
+    padding: 3px 5px;
+    font-size: 12px;
+    margin: -1px 1px 0;
+    width: 500px;
+    box-sizing: border-box;
+}
+
+#woo-dostavista-order-form .is-invalid {
+    border: 1px solid #dc3545;
+}
+
+#woo-dostavista-order-form .point-form .point-actions {
+    float: right;
+}
+
+#woo-dostavista-order-form .point-form .point-up > img,
+#woo-dostavista-order-form .point-form .point-down > img,
+#woo-dostavista-order-form .point-form .point-remove > img {
+    height: 20px;
+}
+
+#woo-dostavista-order-form .point-form .point-up,
+#woo-dostavista-order-form .point-form .point-down,
+#woo-dostavista-order-form .point-form .point-remove {
+    cursor: pointer;
+    display: inline-block;
+    opacity: 0.5;
+}
+
+#woo-dostavista-order-form .point-form .point-up:hover,
+#woo-dostavista-order-form .point-form .point-down:hover,
+#woo-dostavista-order-form .point-form .point-remove:hover {
+    opacity: 1;
+}
+
+#woo-dostavista-order-form .add-delivery-point {
+    border: 1px dashed #ff246f;
+    color: #ff246f;
+    text-align: center;
+    cursor: pointer;
+    padding: 5px;
+    margin: 20px 0;
+    opacity: 0.8;
+}
+
+#woo-dostavista-order-form .add-delivery-point:hover {
+    opacity: 1;
+}
+
+#woo-dostavista-wizard {
+    max-width: 900px;
+}
+
+#woo-dostavista-wizard .shipping-method-form {
+    margin-bottom: 40px;
+}
+
+#woo-dostavista-wizard .shipping-zone-list {
+    margin-bottom: 20px;
+}
+
+#woo-dostavista-wizard .shipping-method-form .shipping-zone-form {
+    border: 1px solid #e5e5e5;
+    padding: 20px 20px 0;
+}
+
+#woo-dostavista-wizard .shipping-method-form .shipping-zone-form select {
+    height: 300px;
+}
+
+
+#woo-dostavista-warehouse-edit,
+#woo-dostavista-backpayment-detail-edit {
+    max-width: 900px;
+}
+
+.button.button-dostavista {
+    background: #ff246f;
+    color: #fff;
+    border: #ff246f;
+    opacity: 0.9;
+}
+
+.button.button-dostavista:hover {
+    background: #ff246f;
+    color: #fff;
+    border: #ff246f;
+    opacity: 1;
+}
+
+.button-primary-light {
+    background: #3498db;
+    border: #3498db;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 2.15384615;
+    min-height: 30px;
+    margin: 0;
+    padding: 0 10px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
